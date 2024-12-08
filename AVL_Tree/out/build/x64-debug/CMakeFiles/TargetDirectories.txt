@@ -1,3 +1,0 @@
-C:/Users/mndav/KITG_REFERAT/AVL_Tree/out/build/x64-debug/CMakeFiles/AVL_Tree.dir
-C:/Users/mndav/KITG_REFERAT/AVL_Tree/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/mndav/KITG_REFERAT/AVL_Tree/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
